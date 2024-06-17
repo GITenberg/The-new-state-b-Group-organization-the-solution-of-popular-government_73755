@@ -1,11 +1,16 @@
 _repo: The-new-state-b-Group-organization-the-solution-of-popular-government_73755
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73755-h/images/cover.jpg
 creator:
   author:
     agent_name: Follett, M. P.
     gutenberg_agent_id: '57207'
     url: http://www.gutenberg.org/2009/agents/57207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73755#The-new-state-b-Group-organization-the-solution-of-popular-government
 gutenberg_issued: '2024-06-02'
 gutenberg_type: Text
 identifiers:
